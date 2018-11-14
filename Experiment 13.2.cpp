@@ -1,5 +1,4 @@
 #include<iostream>
-#include<conio.h>
 #include<stdlib.h>
 using namespace std;
 int a[10][10],i,j,k,n,stk[10],top,v,visit[10],visited[10],x,y;
